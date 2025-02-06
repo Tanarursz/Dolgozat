@@ -1,5 +1,7 @@
 # Dolgozat
 
+## Virtualbox helyes konfigurálása: 3 pont
+
 
 ## Alapvető kliens beállítások: 3 pont
 - hálózati kártyák megfelelő beállítása /2p
