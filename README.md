@@ -1,4 +1,4 @@
-# Dolgozat
+# Dolgozat 
 
 ## Virtualbox helyes konfigurálása: 2 pont
 
