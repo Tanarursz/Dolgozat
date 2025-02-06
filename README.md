@@ -1,6 +1,6 @@
 # Dolgozat
 
-## Virtualbox helyes konfigurálása: 3 pont
+## Virtualbox helyes konfigurálása: 2 pont
 
 
 ## Alapvető kliens beállítások: 3 pont
@@ -16,18 +16,18 @@
 
 
 
-## Dhcp és hatókörének beállítása: 4 pont
+## Dhcp és hatókörének beállítása: 3 pont
 - ne legyen 10-nél több kiosztható ip-cím /1p
-- tiltó lista megfelelő beállítása (default gateway és statikus ip) /2p
+- tiltó lista megfelelő beállítása (default gateway és statikus ip) 1p
 - default gateway megfelelő beállítása /1p
 
-## Active Directory tartományvezérlő telepítés, konfigurálás: 4 pont
+## Active Directory tartományvezérlő telepítés, konfigurálás: 3 pont
 - taromány legyen a következő: wess.lan /1p 
 - felhasználók hozzáadása: /1p
     - Teszt Géza
     - Teszt Iván
     - Teszt Emese
-- megosztott mappa létrehozása: /2p
+- megosztott mappa létrehozása: /1p
     - Csak írás jog
     - automata felcsatolás
 
@@ -39,4 +39,10 @@
 
 ## Tartomány beléptetés: 2 pont
 
+# Ponthatár:
+(24 - 26) = 5
+(22 - 23) = 4
+(20 - 21) = 3
+(18 - 19) = 2
+ 
 
